@@ -12,13 +12,7 @@
   <img src="screenshot-2.png" width="48%" />
 </div>
 
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Dataset](#dataset)
-- [Key Features](#key-features)
-- [Results](#results)
-
-## Overview
+## About
 This project performs **exploratory data analysis (EDA)**, trains several classification models, and provides model interpretability using **SHAP**. The best model achieved strong performance on the imbalanced dataset.
 
 **Best Model**: Random Forest.
