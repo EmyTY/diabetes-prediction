@@ -6,6 +6,12 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
+**Review**
+<div align="center">
+  <img src="screenshot-1.png" width="48%" />
+  <img src="screenshot-2.png" width="48%" />
+</div>
+
 ## 📋 Table of Contents
 - [Overview](#overview)
 - [Dataset](#dataset)
